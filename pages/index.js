@@ -227,7 +227,7 @@ const charity = () => {
         */}
       <div className='blog-section-two mt-170 lg-mt-100'>
         <div className='container'>
-          <div
+          {/* <div
             className='title-style-six text-center mb-50 lg-mb-10'
             data-aos='fade-up'
           >
@@ -235,12 +235,10 @@ const charity = () => {
               Our News
             </div>
             <h2 className='main-title fw-500 tx-dark'>Our latest News</h2>
-          </div>
+          </div> */}
           {/* /.title-style-six */}
 
-          <div className='row'>
-            <Blog />
-          </div>
+          <div className='row'>{/* <Blog /> */}</div>
           {/* /.row */}
         </div>
       </div>
@@ -250,7 +248,7 @@ const charity = () => {
 				Partner Section Three
 			============================================== 
 			*/}
-      <div className='partner-section-three position-relative pt-170 lg-pt-100'>
+      {/* <div className='partner-section-three position-relative pt-170 lg-pt-100'>
         <div className='container'>
           <div className='title tx-dark text-uppercase text-center mb-55 lg-mb-30'>
             Over <span>200+</span> partner currently have us
@@ -259,8 +257,8 @@ const charity = () => {
             <BrandSlider />
           </div>
         </div>
-        {/* /.container */}
-      </div>
+
+      </div> */}
 
       {/*
 			=====================================================

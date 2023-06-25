@@ -31,12 +31,12 @@ const DefaulHeader = () => {
         <div className='d-flex align-items-center justify-content-between'>
           <div className='logo order-lg-0'>
             <Link href='/' className='d-block'>
-              <Image
+              {/* <Image
                 src='/images/logo/logo_01.png'
                 alt='logo'
                 width={95}
                 height={30}
-              />
+              /> */}
             </Link>
           </div>
           {/* <div className="right-widget ms-auto d-flex align-items-center order-lg-3">

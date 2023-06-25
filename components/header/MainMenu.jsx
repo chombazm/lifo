@@ -33,11 +33,11 @@ const MainMenu = () => {
       <div className='collapse navbar-collapse' id='navbarNav'>
         <ul className='navbar-nav'>
           <li className='d-block d-lg-none'>
-            <div className='logo'>
+            {/* <div className='logo'>
               <Link href='/' className='d-block'>
                 <img src='/images/logo/logo_01.png' alt='' width={95} />
               </Link>
-            </div>
+            </div> */}
           </li>
           {/* End li */}
 

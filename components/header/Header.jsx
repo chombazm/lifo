@@ -41,9 +41,9 @@ const Header4 = () => {
       <div className='inner-content position-relative'>
         <div className='d-flex align-items-center'>
           <div className='logo order-lg-0'>
-            <Link href='/'>
+            {/* <Link href='/'>
               <img src='/images/logo/logo_02.png' alt='' width={95} />
-            </Link>
+            </Link> */}
           </div>
           {/* End logo */}
           <div className='right-widget d-flex align-items-center ms-auto order-lg-3'>
