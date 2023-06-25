@@ -42,7 +42,7 @@ const MainMenu = () => {
           {/* End li */}
 
           <li className='nav-item active'>
-            <Link className='nav-link' href='/' role='button'>
+            <Link className='nav-link' href='/#!' role='button'>
               Home
             </Link>
           </li>
@@ -52,12 +52,12 @@ const MainMenu = () => {
             </Link>
           </li>
           <li className='nav-item'>
-            <Link className='nav-link' href='/about' role='button'>
+            <Link className='nav-link' href='/#!' role='button'>
               About
             </Link>
           </li>
           <li className='nav-item'>
-            <Link className='nav-link' href='/contact' role='button'>
+            <Link className='nav-link' href='/#!' role='button'>
               Contact
             </Link>
           </li>
